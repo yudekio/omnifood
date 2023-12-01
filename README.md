@@ -4,6 +4,12 @@ This repository contains the code for the Omnifood website, a sleek and modern d
 
 ## Screenshots
 
-![Screen](image.png)
+![Screen1](image-1.png)
+
+![Screen2](image-2.png)
+
+![Screen3](image.png)
+
+![Screen4](image-3.png)
 
 Click to visit: [Demo](https://theaifood.netlify.app/)
