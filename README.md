@@ -2,14 +2,14 @@
 
 This repository contains the code for the Omnifood website, a sleek and modern design showcasing HTML, CSS, and JavaScript skills.
 
+Click to visit: [Demo](https://theaifood.netlify.app/)
+
 ## Screenshots
 
-![Screen1](image-1.png)
+![Screen1](screenshots/image-1.png)
 
-![Screen2](image-2.png)
+![Screen2](screenshots/image-2.png)
 
-![Screen3](image.png)
+![Screen3](screenshots/image.png)
 
-![Screen4](image-3.png)
-
-Click to visit: [Demo](https://theaifood.netlify.app/)
+![Screen4](screenshots/image-3.png)
